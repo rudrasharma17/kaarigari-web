@@ -8,7 +8,7 @@ Official website for **Kaarigari Production** — a cinematic video production s
 
 ## Overview
 
-A modern, animation-rich marketing site built to showcase Kaarigari’s portfolio, philosophy, equipment, and inquiry flow. The site emphasizes cinematic presentation with smooth scrolling, page transitions, and embedded video playback across works and gallery sections.
+A modern, animation-rich marketing site built to showcase Kaarigari’s portfolio, philosophy, equipment, and inquiry flow. The site emphasizes cinematic presentation with smooth scrolling, , page transitions, and embedded video playback across works and gallery sections.
 
 ### Pages
 
